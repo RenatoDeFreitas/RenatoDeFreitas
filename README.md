@@ -1,7 +1,32 @@
--	 👋 Hi, I’m @RenatoDeFreitas. I'm project manager, administrator, actor and soon to be a programmer. ;-D
-- 👀 I’m interested in  exchange information about projects. I'm looking for a new job opportunity. 
--  🌱 I’m currently learning analyze and develop systems. Studying frontend and backend. Also learning english. (interesse em aprender HTML-CSS, python, JAVA, JavaScript, banco de dados e demais recursos para me tornar um programado ou analista de dados. Tenho pós-graduação em Projetos e processos. Busco Oportunudade de trabalho na área de programação)
-- 📫 How to reach me https://www.linkedin.com/in/gprenatofreitas-power-bi/
+# Olá, eu sou o Renato de Freitas 👋
+
+**Gestor de Projetos e Processos | Estudante de Análise e Desenvolvimento de Sistemas**
+
+Profissional com sólida experiência em gestão, administração e processos, atualmente em transição estratégica para as áreas de **Programação e Análise de Dados**. Utilizo minha bagagem em governança e projetos para construir soluções tecnológicas eficientes e estruturadas.
+
+---
+
+### 💼 Perfil Profissional
+* **Experiência Consolidada:** Pós-graduado em Gestão de Projetos e Processos, com ampla vivência em administração e gestão de equipes.
+* **Foco Atual:** Desenvolvimento de software e análise de dados para otimização de negócios.
+* **Objetivo:** Atuar como Desenvolvedor ou Analista de Dados, unindo visão de negócio à competência técnica.
+
+### 🛠️ Competências Técnicas (Em Desenvolvimento)
+* **Linguagens:** Python, Java e JavaScript.
+* **Web:** HTML5, CSS3 e frameworks de Frontend e Backend.
+* **Dados:** Banco de Dados (SQL) e Power BI.
+* **Metodologias:** Gestão de Projetos (Tradicional e Ágil) e Mapeamento de Processos.
+
+### 🌱 Aprendizado Contínuo
+* 🎓 Cursando graduação em **Análise e Desenvolvimento de Sistemas**.
+* 🗣️ Aprimorando proficiência em **Inglês**.
+
+### 🤝 Networking e Oportunidades
+Estou aberto a conexões para troca de informações sobre projetos e novas oportunidades no mercado de tecnologia.
+
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/gprenatofreitas-power-bi/)
+
+---
 
 <!---
 RenatoDeFreitas/RenatoDeFreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
