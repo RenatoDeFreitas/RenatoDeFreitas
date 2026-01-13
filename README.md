@@ -2,24 +2,23 @@
 
 **Gestor de Projetos e Processos | Estudante de Análise e Desenvolvimento de Sistemas**
 
-Profissional com sólida experiência em gestão, administração e processos, atualmente em transição estratégica para as áreas de **Programação e Análise de Dados**. Utilizo minha bagagem em governança e projetos para construir soluções tecnológicas eficientes e estruturadas.
+Profissional com experiência em gestão, administração e processos, atualmente em transição estratégica (fusão de carreira) para as áreas de **Programação e Análise de Dados**. Utilizo minha bagagem em governança e projetos para construir soluções tecnológicas eficientes e estruturadas.
 
 ---
 
 ### 💼 Perfil Profissional
-* **Experiência Consolidada:** Pós-graduado em Gestão de Projetos e Processos, com ampla vivência em administração e gestão de equipes.
+* **Experiência Consolidada:** Pós-graduado em Gestão de Projetos e vivência em administração e gestão de equipes.
 * **Foco Atual:** Desenvolvimento de software e análise de dados para otimização de negócios.
-* **Objetivo:** Atuar como Desenvolvedor ou Analista de Dados, unindo visão de negócio à competência técnica.
+* **Objetivo:** Atuar como Desenvolvedor e/ou Analista de Dados, unindo visão de negócio à competência técnica.
 
 ### 🛠️ Competências Técnicas (Em Desenvolvimento)
-* **Linguagens:** Python, Java e JavaScript.
-* **Web:** HTML5, CSS3 e frameworks de Frontend e Backend.
+* **Linguagens:** Java, Python e DAX.
 * **Dados:** Banco de Dados (SQL) e Power BI.
 * **Metodologias:** Gestão de Projetos (Tradicional e Ágil) e Mapeamento de Processos.
 
 ### 🌱 Aprendizado Contínuo
 * 🎓 Cursando graduação em **Análise e Desenvolvimento de Sistemas**.
-* 🗣️ Aprimorando proficiência em **Inglês**.
+* 🗣️ Estudando **Inglês**.
 
 ### 🤝 Networking e Oportunidades
 Estou aberto a conexões para troca de informações sobre projetos e novas oportunidades no mercado de tecnologia.
